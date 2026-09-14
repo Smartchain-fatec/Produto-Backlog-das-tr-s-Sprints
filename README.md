@@ -14,7 +14,6 @@ O projeto tem como objetivo desenvolver uma solução de análise e visualizaç�
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Equipe](#equipe)
 - [Acúmulos de Produtos](./acumulos_produtos/)
-- [Competências LTs](./competencias_lts/)
 - [Fonte dos Dados](./dados/)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Backlog](./backlog/)
