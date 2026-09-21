@@ -16,7 +16,6 @@ O projeto tem como objetivo desenvolver uma solução de análise e visualizaç�
 - [Acúmulos de Produtos](./acumulos_produtos/)
 - [Fonte dos Dados](./dados/)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Backlog](./backlog/)
 - [Registros das Sprints](./sprints/)
 
 ---
@@ -96,10 +95,6 @@ As principais ferramentas e tecnologias utilizadas no desenvolvimento do projeto
 ## 📋 Backlog
 
 O backlog apresenta as atividades, necessidades e funcionalidades previstas para o desenvolvimento do projeto.
-
-➡️ [Acessar Backlog do Projeto](./backlog/)
-
----
 
 ## 🚀 Registros das Sprints
 
