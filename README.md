@@ -10,12 +10,12 @@ O projeto tem como objetivo desenvolver uma solução de análise e visualizaç�
 
 ## 📑 Índice
 
-- [Sobre o Projeto](#sobre-o-projeto)
-- [Objetivo do Projeto](#objetivo-do-projeto)
-- [Equipe](#equipe)
+- [📌 Sobre o Projeto](#-sobre-o-projeto)
+- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
+- [👥 Equipe](#-equipe)
 - [Acúmulos de Produtos](./acumulos_produtos/)
 - [Fonte dos Dados](./dados/)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Registros das Sprints](./sprints/)
 
 ---
