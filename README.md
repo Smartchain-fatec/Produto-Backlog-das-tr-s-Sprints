@@ -73,8 +73,6 @@ Nesta seção são apresentadas as competências relacionadas ao desenvolvimento
 
 Os dados utilizados no desenvolvimento do projeto serão obtidos a partir de bases de dados públicas e fontes digitais relacionadas às atividades econômicas e aos setores industriais e de serviços de São José dos Campos.
 
-➡️ [Acessar Fonte dos Dados](./dados/)
-
 ---
 
 ## 💻 Tecnologias Utilizadas
